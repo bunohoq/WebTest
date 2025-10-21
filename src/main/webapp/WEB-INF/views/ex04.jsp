@@ -8,10 +8,8 @@
 	<title>Insert title here</title>
 	<link rel="stylesheet" href="http://bit.ly/3WJ5ilK" />
 </head>
-<body>
-	
+<body>	
 	<!-- ex04.jsp -->
-	
 	<h1>ex04.jsp</h1>
 	
 	<div><a href="/java/ex04get.do">GET 요청하기</a></div>

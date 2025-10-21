@@ -8,12 +8,12 @@
 	<title>Insert title here</title>
 	<link rel="stylesheet" href="http://bit.ly/3WJ5ilK" />
 </head>
-<body>
-	
+<body>	
 	<!-- ex04post.jsp -->
 	<h1>ex04post.jsp</h1>
 	
-	<p>POST 요청합니다.</p>
+	<p>POST 요청입니다.</p>
 	
 </body>
 </html>
+
