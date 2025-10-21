@@ -1,0 +1,88 @@
+
+새 프로젝트 
+
+- New > Spring Legacy Project > Spring MVC Project
+- Project name: "WebTest"
+- root package: "com.test.java"
+
+
+현재 프로젝트 버전 수정하기
+
+1. 자바 버전 > 11
+	- pom.xml
+	- 프로젝트 > 우측버튼 > Properties > Project facets
+	
+2. 스프링 버전 > 5.0.7
+	- pom.xml
+
+
+롬복 설치하기
+
+- pom.xml > 의존성 추가
+	
+----------------------------------------------------------
+
+
+Window > Preferences > "encoding"
+
+
+----------------------------------------------------------
+
+
+Servlet/JSP MVC Project vs Spring MVC Project
+
+Servlet/JSP MVC Project
+- 모든 작업을 개발자가 결정 + 설계 + 구축 + MVC 디자인 패턴 도입
+
+Spring 프레임워크
+- 대부분 작업을 위한 틀을 제공(결정 + 설계) > 프레임워크
+- 개발자는 그 틀안에서 주어진 요소들만 구현
+
+----------------------------------------------------------
+
+Spring Web MVC Project
+- DI 적용
+
+
+파일 및 패키지
+
+- "com.test.java.controller"
+					- "Ex01Controller.java"
+- views > "ex01.jsp"
+
+
+- com.test.java.controller > "Ex02Controller.java"
+- "com.test.java.model" > "SpringDAO.java"
+- views > "ex02.jsp"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
